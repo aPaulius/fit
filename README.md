@@ -1,5 +1,9 @@
 # fit-app
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/listingslab/fit/master/_assets/Garmin%20Vivosmart%20HR.jpg" alt="Garmin Vivosmart HR"/>
+</p>
+
 Using your Garmin FIT fitness data files. For good.
 
 ## Key Technologies
