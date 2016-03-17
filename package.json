@@ -12,9 +12,9 @@
   "dependencies": {
     "fit": "0.0.3"
   },
-  "license": "MIT",
   "devDependencies": {
     "clear": "0.0.1",
     "colors": "^1.1.2"
-  }
+  },
+  "license": "MIT"
 }

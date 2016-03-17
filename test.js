@@ -8,5 +8,6 @@ var clear = require ('clear');
 
 clear ();
 
-var filepath = path.resolve(__dirname, 'Garmin/DEVICE.FIT');
+var filepath = path.resolve(__dirname, 'Garmin/SPORTS/0RRUN.FIT');
 console.log('\nFIT file > '.cyan + filepath.green + '\n');
+
