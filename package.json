@@ -1,7 +1,7 @@
 {
   "name": "fit-app",
   "version": "1.0.0",
-  "description": "Using Garmin FIT files. For good.",
+  "description": "Using your Garmin FIT fitness data files. For good.",
   "main": "",
   "scripts": {
   },
