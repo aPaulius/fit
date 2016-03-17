@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Using your Garmin FIT fitness data files. For good.",
   "main": "",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:listingslab/fit.git"
@@ -13,5 +12,9 @@
   "dependencies": {
     "fit": "0.0.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "clear": "0.0.1",
+    "colors": "^1.1.2"
+  }
 }
