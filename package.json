@@ -1,0 +1,17 @@
+{
+  "name": "fit-app",
+  "version": "1.0.0",
+  "description": "Using Garmin FIT files. For good.",
+  "main": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:listingslab/fit.git"
+  },
+  "author": "listingslab",
+  "dependencies": {
+    "fit": "0.0.3"
+  },
+  "license": "MIT"
+}
