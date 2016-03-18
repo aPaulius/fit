@@ -1,7 +1,7 @@
 # fit-app
 
 <p align="left">
-	Using your Garmin FIT fitness data files. For good.
+	Using your Garmin FIT fitness data files. For good not evil.
 </p>
 
 <p align="right">
